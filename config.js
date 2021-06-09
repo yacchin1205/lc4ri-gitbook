@@ -1,6 +1,6 @@
 const config = {
   gatsby: {
-    pathPrefix: '/',
+    pathPrefix: '/lc4ri-gitbook/',
     siteUrl: 'https://hasura.io',
     gaTrackingId: null,
     trailingSlash: false,
